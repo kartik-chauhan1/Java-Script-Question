@@ -124,6 +124,10 @@ function outer() {
 // used to access the current object, or to call a function as a method of the current object
 
 
+// What are the different ways to define a function in Javascript
+// There are several ways to define a function in JavaScript, including:
+
+
 
 
 
