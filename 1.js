@@ -107,6 +107,11 @@ function outer() {
   const myClosure = outer();
   myClosure(); // Output: I'm a secret!
 */
+// What is the difference between == and === in javaScript
+// The == operator checks for equality in value, while the === operator checks for equality in both value
+// and type. This means that == can return true even if the two values are not of the
+// same type, while === will only return true if the two values are of the same type and
+// have the same value.
 
 
 
