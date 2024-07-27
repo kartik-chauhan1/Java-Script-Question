@@ -67,6 +67,15 @@ console.log(typeof regex); // "object"
 // null is a primitive value that represents the intentional absence of any object value
 // undefined is a primitive value that represents an uninitialized variable or a property that has not been initialized
 
+//What is DOM in javaScript
+// DOM stands for Document Object Model, it is a programming interface for HTML and XML documents. It
+// represents the structure of a document as a tree-like data structure, where each node in the tree
+// represents an element in the document.
+
+// What is Event in java Script?
+// An event is an action or occurrence that can be detected by a script, such as a user
+// clicking a button or typing in a text field.
+
 
 
 
