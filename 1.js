@@ -113,5 +113,11 @@ function outer() {
 // same type, while === will only return true if the two values are of the same type and
 // have the same value.
 
+//What is hoisting in javascript
+// Hoisting is a JavaScript mechanism where variables and function declarations are moved to the top of their scope
+// before the code is executed. This means that even if a variable or function is declared after it
+// is used, it will still be accessible.
+
+
 
 
