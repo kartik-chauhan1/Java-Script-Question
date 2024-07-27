@@ -63,4 +63,10 @@ console.log(typeof date); // "object"
 console.log(typeof regex); // "object"
 */
 
+// What is different between null and undefined
+// null is a primitive value that represents the intentional absence of any object value
+// undefined is a primitive value that represents an uninitialized variable or a property that has not been initialized
+
+
+
 
