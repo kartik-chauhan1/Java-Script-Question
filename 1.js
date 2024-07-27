@@ -1,5 +1,8 @@
 //what is java script?
 //javascript is a programming language that is used for client-side scripting on the web.
+//it is used to add interactivity to web pages and to create dynamic web applications.
+//javascript is a high-level language that is easy to learn and use, and it is supported by
+//most web browsers.
 
 //What are the data types in java Script?
 /* JavaScript has the following data types:
@@ -75,6 +78,21 @@ console.log(typeof regex); // "object"
 // What is Event in java Script?
 // An event is an action or occurrence that can be detected by a script, such as a user
 // clicking a button or typing in a text field.
+
+//What is an anonymous function in javascript?
+// An anonymous function is a function that is defined without a name. It is a function that is
+// created and used immediately, without being assigned to a variable or function name.
+// Anonymous functions are often used as event handlers or as arguments to higher-order functions.
+// Here is an example of an anonymous function:
+// function() { console.log('Hello World'); }();
+
+// What is closures in javaScript
+// A closure is a function that has access to its own scope, as well as the scope of
+// its outer functions, even when the outer function has returned. This allows the inner
+// function to "remember" the variables of the outer function, even when the outer function
+// has finished executing.
+
+
 
 
 
