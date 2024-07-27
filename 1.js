@@ -91,9 +91,22 @@ console.log(typeof regex); // "object"
 // its outer functions, even when the outer function has returned. This allows the inner
 // function to "remember" the variables of the outer function, even when the outer function
 // has finished executing.
-
-
-
+/*
+function outer() {
+    let secret = "I'm a secret!"; // Parent scope variable
+  
+    function inner() { // Closure function
+      console.log(secret); // Access parent scope variable
+      console.log(a)
+    }
+    let a='10'
+  
+    return inner;
+  }
+  
+  const myClosure = outer();
+  myClosure(); // Output: I'm a secret!
+*/
 
 
 
