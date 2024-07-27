@@ -119,5 +119,11 @@ function outer() {
 // is used, it will still be accessible.
 
 
+//What is the this keyword in javaScript
+// The this keyword in JavaScript refers to the current execution context of a function. It can be
+// used to access the current object, or to call a function as a method of the current object
+
+
+
 
 
