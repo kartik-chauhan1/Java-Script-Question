@@ -125,6 +125,10 @@ function outer() {
 
 // What are the different ways to define a function in Javascript
 // There are several ways to define a function in JavaScript, including:
+// 1. Function Declaration: This is the most common way to define a function, and it
+// is defined using the function keyword followed by the name of the function and a
+// list of parameters in parentheses.
+
 
 
 
